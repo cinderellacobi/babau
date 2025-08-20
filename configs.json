@@ -1,19 +1,19 @@
 {
   "ads_config": {
     "ad_waterfall": [
-      "admob",
+      "gamob",
       "unity"
     ],
-    "ad_time": 40,
+    "ad_time": 60,
     "ad_spacing": 3,
     "ad_model": [
       {
-        "name": "admob",
-        "app_id": "ca-app-pub-3940256099942544~3347511713",
-        "banner_id": "ca-app-pub-3940256099942544/6300978111",
-        "popup_id": "ca-app-pub-3940256099942544/1033173712",
-        "reward_id": "ca-app-pub-3940256099942544/5224354917",
-        "open_id": "ca-app-pub-3940256099942544/9257395921",
+        "name": "gamob",
+        "app_id": "ca-app-pub-9216590513779496~9251328507",
+        "banner_id": "/23306315166/1611755728386",
+        "popup_id": "/23306315166/3811755728400",
+        "reward_id": "/23306315166/6221755728413",
+        "open_id": "/23306315166/7611755728424",
         "popup_time": 120
       },
       {

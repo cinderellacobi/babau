@@ -30,17 +30,17 @@
   "fanpage_config": {
     "fanpage": [
       {
-        "link": "https://www.facebook.com/profile.php?id=61579166366218",
+        "link": "https://web.facebook.com/mebimthongthaiofficial/",
         "target": "us",
         "enable": true
       },
       {
-        "link": "https://www.facebook.com/profile.php?id=61579166366218",
+        "link": "https://web.facebook.com/mebimthongthaiofficial/",
         "target": "vn",
         "enable": true
       },
       {
-        "link": "https://www.facebook.com/profile.php?id=61579166366218",
+        "link": "https://web.facebook.com/mebimthongthaiofficial/",
         "target": "def",
         "enable": true
       }
